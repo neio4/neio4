@@ -1,4 +1,5 @@
-## Hi there 👋
+## GitHub sucks!
+I also have a [sourcehut](https://sr.ht/~cookieconsent/) account.
 
 <!--
 **neio4/neio4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
